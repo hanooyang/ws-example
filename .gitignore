@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+ws-server/yarn.lock
+ws-client/package-lock.json
